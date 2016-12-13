@@ -1,0 +1,26 @@
+{
+  "name": "fee-testing",
+  "version": "1.0.0",
+  "description": "This repo is a practice area for testing front end JavaScript code.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eransom/fee-testing.git"
+  },
+  "author": "Eric Ransom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eransom/fee-testing/issues"
+  },
+  "homepage": "https://github.com/eransom/fee-testing#readme",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}

@@ -1,9 +1,9 @@
-(function() {
-    'use strict';
-
-    window.calc = window.calc || {};
-
-    window.calc.sum = sum;
+// (function() {
+//     'use strict';
+//
+//     window.calc = window.calc || {};
+//
+//     window.calc.sum = sum;
 
     /**
      * Adds whatever numbers are provided and returns the total
@@ -44,4 +44,6 @@
         return total;
     }
 
-})();
+// })();
+module.exports = sum
+module.exports = factorial
